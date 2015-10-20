@@ -1,0 +1,23 @@
+{
+  "name": "githubprofiles_angular",
+  "authors": [
+    "MoeSadoon <msadoon590@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
