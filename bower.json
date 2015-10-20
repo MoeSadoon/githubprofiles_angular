@@ -1,5 +1,6 @@
 {
   "name": "githubprofiles_angular",
+  "homepage": "https://github.com/MoeSadoon/githubprofiles_angular",
   "authors": [
     "MoeSadoon <msadoon590@gmail.com>"
   ],
@@ -7,7 +8,6 @@
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
     "angular": "~1.4.7",
     "angular-resource": "~1.4.7"
   },
